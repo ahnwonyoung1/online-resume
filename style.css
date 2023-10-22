@@ -1,0 +1,54 @@
+.container {
+    background-color: aliceblue;
+    max-width: 600px;
+    min-height: 1200px;
+    margin: 60px auto;
+    box-shadow: 0 2px 10px black;
+   
+}
+
+.details {
+    font-size: 15px;
+    line-height: 20px;
+    padding: 10px;
+}
+
+
+.images {
+    height: 160px;
+    width: 180px;
+    text-align: center;
+    margin: 25px auto; 
+    padding-top: 10px;
+}
+
+
+h1 {
+    padding-top: 10px;
+    text-align: center;
+}
+.images img{
+    width: 100%;
+    border-radius: 50%;
+    border: 5px solid black;
+}
+
+h2 {
+    background-color: rgb(156, 230, 144);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h4{
+    padding-left: 15px;
+    padding-right: 5px;
+}
+p {
+    padding-left: 10px;
+    line-height: 0.5;
+}
+
+.footer {
+    text-align: center;
+    padding-top: 80px;
+}
